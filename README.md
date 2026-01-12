@@ -123,6 +123,7 @@ Open **two tabs** to test real-time messaging.
 ## 👨‍💻 Author
 
 **Harshal Uikey**
-Frontend Developer | React & JavaScript
+
+
 
 
