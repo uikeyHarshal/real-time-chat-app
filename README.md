@@ -8,7 +8,7 @@ This project demonstrates real-time data flow, client–server communication, an
 
 ---
 ## screenshots
-![image](chartapp1.png)
+![image](app.png)
 ## 🚀 Features
 
 - Real-time messaging using WebSockets
@@ -124,4 +124,5 @@ Open **two tabs** to test real-time messaging.
 
 **Harshal Uikey**
 Frontend Developer | React & JavaScript
+
 
