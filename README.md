@@ -1,11 +1,17 @@
 
-# 💬 Real-Time Chat Application (WebSockets)
+# Real-Time Chat Application (WebSockets)
 
-A **real-time chat application** built using **React.js** on the frontend and **Node.js with Socket.IO** on the backend.  
-The application enables users to send and receive messages instantly using **WebSocket-based communication**, with support for **message history** and a **responsive user interface**.
+*COMPANY*:  Codtech IT Solutions Private Limited
 
-This project demonstrates real-time data flow, client–server communication, and modern frontend–backend integration.
+*Name*:HARSHAL UIKEY
 
+*INTERN ID*: CTIS2763
+
+*DOMAIN*: Front End Development
+
+*Duration*: 4 Weeks
+
+*Mentor*: Neela Santosh
 ---
 ## screenshots
 ![image](app.png)
@@ -123,6 +129,7 @@ Open **two tabs** to test real-time messaging.
 ## 👨‍💻 Author
 
 **Harshal Uikey**
+
 
 
 
