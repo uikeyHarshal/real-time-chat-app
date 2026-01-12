@@ -1,8 +1,4 @@
-Perfect. Below is a **complete, professional `README.md` file** you can **copy-paste as one file** for your **Real-Time Chat Application** project.
 
----
-
-```markdown
 # 💬 Real-Time Chat Application (WebSockets)
 
 A **real-time chat application** built using **React.js** on the frontend and **Node.js with Socket.IO** on the backend.  
@@ -11,7 +7,8 @@ The application enables users to send and receive messages instantly using **Web
 This project demonstrates real-time data flow, client–server communication, and modern frontend–backend integration.
 
 ---
-
+## screenshots
+![image](chartapp1.png)
 ## 🚀 Features
 
 - Real-time messaging using WebSockets
@@ -58,7 +55,7 @@ realtime-chat/
 │ │ ├── index.css  
 │ ├── index.html
 │ ├── package.json
-│
+├── app.png
 └── README.md
 
 ````
@@ -127,3 +124,4 @@ Open **two tabs** to test real-time messaging.
 
 **Harshal Uikey**
 Frontend Developer | React & JavaScript
+
